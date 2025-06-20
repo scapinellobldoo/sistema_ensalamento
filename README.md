@@ -1,5 +1,3 @@
-Com certeza\! Abaixo está um modelo de `README.md` completo para o seu sistema de ensalamento, sintetizando as informações e funcionalidades implementadas até agora.
-
 ````markdown
 # Sistema de Ensalamento
 
